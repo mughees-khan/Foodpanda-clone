@@ -1,0 +1,227 @@
+body{
+    font-family: sans-serif;
+}
+.main-top{
+    background-color:rgba(63, 0, 63, 0.753);
+    color: rgb(0, 0, 0);
+    height: 50px;
+    padding-left: 300px;
+    padding-top: 15px;
+}
+.sign-button{
+    width: 140px;
+    height: 40px;
+    margin-left: 20px;
+    background-color:rgba(63, 0, 63, 0.753);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 0.5em;
+    position: relative;
+    top: -15px;
+    right: -20px;
+}
+.account-logo{
+    width: 200px;
+    height: 30px;
+    margin-left: 1100px;
+    position: relative;
+    top: -30px;
+    border: 1px solid rgba(255, 255, 255, 0.712);
+    background-color:rgb(173, 173, 173);
+}
+.panda-logo{
+    width: 200px;
+    height: 30px;
+    margin-top: 20px;
+}
+.account-logo-bar{
+    width: 260px;
+    height: 20px;
+    position: relative;
+    left: 990px;
+    bottom: 52px;
+}
+.bag-logo{
+    width: 100px;
+    height: 40px;
+    margin-left: 50px;
+}
+.bag-left{
+    position: relative;
+    top: -15px;
+    right: -20px;
+}
+.cross{
+    width: 50px;
+    height: 20px;
+    position: relative;
+    right: -560px;
+    top: -30px;
+}
+.delivery-right{
+  width: 400px;
+  height: 600px;
+  position: relative;
+  right: -580px; 
+}
+.delivery-left{
+    display: inline-block;
+    float: left;
+    font-size: 20px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.delivery-bottom{
+    width: 80%;
+    margin: 0% auto;
+    position: relative;
+    top: -150px;
+    background-color:rgb(173, 173, 173);
+    padding-left: 100px;
+    padding-top: 10px;
+}
+.hidden{
+    width: 200px;
+    height: 30px;
+    border: 1px solid rgb(173, 173, 173);
+    background-color:rgb(173, 173, 173);
+}
+.main-hidden{
+    width: 60%;
+    display: inline-block;
+    border-radius: 0.5em;
+    position: relative;
+    right: 80px;
+}
+.delivery-button{
+    width: 195px;
+    height: 63px;
+    background-color:rgba(63, 0, 63, 0.753);
+    display: inline-block;
+    position: relative;
+    top: -26px;
+    right: 55px;
+    border-radius: 0.5em;
+}
+.or{
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    top: -20px;
+    right: 50px;
+}
+.zoom-logo{
+    width: 40px;
+    height: 20px;
+    position: relative;
+    left: 450px;
+    top: 5px;
+}
+.food-prepared-background{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    z-index: -1;
+}
+.food-prepared-box{
+    width: 30%;
+    height: 300px;
+    background-color:rgb(173, 173, 173);
+    padding: 1.5em;
+    margin-top: 200px;
+    margin-left: 60px;
+}
+.food-prepared-button{
+    background-color:rgba(63, 0, 63, 0.753);
+    width: 100%;
+    height: 45px;
+    border: 1px solid black;
+    border-radius: 0.5em;
+}
+.app-box{
+    height: 280px;
+    margin-top: 100px;
+    background-color:rgba(63, 0, 63, 0.753);
+}
+.app-left{
+    width: 35%;
+    padding: 3em;
+    display: inline-block;
+    position: relative;
+    top: -180px;
+}
+.app-right{
+    width: 50%;
+    display: inline-block;
+}
+.mobile{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 290px;
+    top: -50px;
+    
+}
+.lunch-image-background{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+    z-index: -1;
+    margin-top: 100px;
+}
+.lunch-box{
+    width: 30%;
+    background-color:rgb(173, 173, 173);
+    padding: 1.5em;
+    margin-top: 380px;
+    margin-left: 60px;
+}
+
+.images{
+    width: 300px;
+    height: 300px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.city{
+    width: 1500px;
+    margin-left: 50px;
+}
+.app-logo{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.hading{
+    margin-left: 70px;
+    position: relative;
+    top: 35px;
+    font-size: 30px;
+    color: rgb(85, 97, 97) ;
+}
+.heading-last{
+    position: relative;
+    top: 140px;
+}
+.heading-seclast{
+    position: relative;
+    top: 90px;
+}
+.low{
+    font-size: 50px;
+    height: 0px;
+    position: relative;
+    left: 100px;
+    top: 40px;
+    opacity: 0.1;
+}
+.low-twolast{
+position: relative;
+top: 70px;
+}
+.low-last{
+position: relative;
+top: 120px;
+}
